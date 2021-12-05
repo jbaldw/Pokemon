@@ -1,0 +1,20 @@
+const typeTable = {normal: "grey",
+                   fire: "orange",
+                   water: "blue",
+                   grass: "green",
+                   electric: "yellow",
+                   ice: "blue",
+                   fighting: "red",
+                   poison: "purple",
+                   ground: "brown",
+                   flying: "blue",
+                   psychic: "pink",
+                   bug: "green",
+                   rock: "brown",
+                   ghost: "purple",
+                   dark: "black",
+                   dragon: "blue",
+                   steel: "grey",
+                   fairy: "pink"};
+
+export default typeTable;
