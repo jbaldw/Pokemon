@@ -1,5 +1,10 @@
 # pokemon
 
+## Live Dmo
+```
+https://competent-jackson-1b330c.netlify.app/
+```
+
 ## Project setup
 ```
 npm install
