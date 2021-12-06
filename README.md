@@ -1,4 +1,4 @@
-# pokemon
+# Vue.js Pokédex
 
 ## Live Demo
 [https://competent-jackson-1b330c.netlify.app/](https://competent-jackson-1b330c.netlify.app/)
